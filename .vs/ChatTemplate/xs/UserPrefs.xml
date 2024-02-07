@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{4D540AF7-22D7-A1B6-FAB3-DC2F4BBD8FA0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FiveMinuteChat/Scripts/UI/ChatBubbles/ChatBubbleBehavior.cs">
+    <Files>
+      <File FileName="Assets/FiveMinuteChat/Scripts/Connectors/TcpConnector.cs" Line="86" Column="43" />
+      <File FileName="Assets/FiveMinuteChat/Scripts/Connectors/SignalRCoreConnector.cs" Line="50" Column="35" />
+      <File FileName="Assets/FiveMinuteChat/Scripts/Helpers/MessageHandler.cs" Line="49" Column="77" />
+      <File FileName="Assets/FiveMinuteChat/Scripts/UI/ChatBubbles/ChatBubbleBehavior.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="86b15183-b6e6-4217-9169-4c09da1b6924" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
